@@ -3,3 +3,4 @@
 - [PLAN](Resources/md/프론트엔드 스터디방 커리큘럼.md) : 프론트엔드 스터디 커리큘럼
 - [DAY01](DAY01/README.md) : Git & Github & Markdown
 - [DAY02](DAY02/README.md) : Github & GitPages & Gist & GitBook
+- [DAY03](DAY03/README.md) : Photoshop & Sublime Text
