@@ -72,7 +72,7 @@ Eclipse, Aptana, VisualStudio, Editplus, Webstorm, Sublime 등등 여러 에디�
 - **기능 & 단축키**
   - [(Mac) 서브라임 텍스트 기능 및 단축키](../Resources/md/(Mac) sublime - shortcuts.md)
   - [(Window) 서브라임 텍스트 기능 및 단축키](../Resources/md/(Window) sublime - shortcuts.md)
-- 패키지
+- **패키지**
   - [Useful Package List](../Resources/md/Plugin List.md)
-- 스니펫 & 메크로
+- **스니펫 & 메크로**
   - [스니펫 간단한 사용법](../Resources/md/Snippet 사용법 및 설정 방법.md)
