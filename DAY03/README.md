@@ -69,6 +69,10 @@ Eclipse, Aptana, VisualStudio, Editplus, Webstorm, Sublime 등등 여러 에디�
 어떤 기능이 있는지 알아야 활용할 가치가 있고 기회가 있다고 생각합니다. 그러므로 전체적인 기능을 살펴본 후 각자의 편의에 맞게 사용하시면 되겠습니다.
 
 ## 서브라임 텍스트
-- 기능 & 단축키
+- **기능 & 단축키**
+  - [(Mac) 서브라임 텍스트 기능 및 단축키](../Resources/md/(Mac) sublime - shortcuts.md)
+  - [(Window) 서브라임 텍스트 기능 및 단축키](../Resources/md/(Window) sublime - shortcuts.md)
 - 패키지
+  - [Useful Package List](../Resources/md/Plugin List.md)
 - 스니펫 & 메크로
+  - [스니펫 간단한 사용법](../Resources/md/Snippet 사용법 및 설정 방법.md)
